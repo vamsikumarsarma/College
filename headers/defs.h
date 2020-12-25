@@ -1,5 +1,5 @@
-void registration(struct node **node);
-void display(struct node *node);
+//void registration(struct node **node);
+//void display(struct node *node);
 
 struct node{
 	char name[50];
