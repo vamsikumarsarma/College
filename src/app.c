@@ -3,8 +3,8 @@
 #include <string.h>
 #include "../headers/defs.h"
 
-void registration(struct node **node);
-void display(struct node *node);
+//void registration(struct node **node);
+//void display(struct node *node);
 //if I keep this prototype in defs.h then it is a compilation error
 int main(){
 
